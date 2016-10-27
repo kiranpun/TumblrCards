@@ -34,11 +34,11 @@ by someone that understand the language.
 ### TODO's
 
 #### BEGINNER
-- [ ] Start working on Wiki for the game
-- [ ] Fix any and all gramatical/spelling errors
-- [ ] Come up with better name than TumblrCards
+- [X] Start working on Wiki for the game
+- [X] Fix any and all gramatical/spelling errors
+- [X] Come up with better name than TumblrCards
 - [ ] Add string flags to the Card.trigger() (i.e "ETB" for enters the battlefield) so the ability knows when to trigger.
-- [ ] Create command line arguements in main.cpp
+- [X] Create command line arguements in main.cpp
 - [ ] Add combat methods to Card class (i.e. attack(Card* card)) that deals damage to the card arguement
 - [ ] Finish set_pos() method in imageMapp.cpp
 - [ ] Finish intersects() method in imageMapp.cpp
